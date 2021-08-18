@@ -1,0 +1,8 @@
+1- https://formsmarts.com/form/yu?mode=h5 sitesini ac
+2- Business i cekleyin.  input[id$='4586_0']
+3- discovery xyz select[id$='4588']  ye tiklayin  ve online advertising option[Value='Online Advertising']    i tiklayin
+4- Every day i secin   input[value='Every Day']
+5- Good u secin   input[value='Good']
+6-. Using xyz tiklayin    select[id$='u_IQh_4597']
+ve 3. Secenegi secin
+[id$='u_IQh_4597']> :nth-child(4)
